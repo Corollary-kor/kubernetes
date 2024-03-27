@@ -12,7 +12,7 @@ provider "aws" {
 }
 
 variable "cluster_name" {
-  default = "dongseok-test"
+  default = "my-test"
 }
 
 variable "cluster_version" {
